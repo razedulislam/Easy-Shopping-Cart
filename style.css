@@ -1,0 +1,38 @@
+.shop-img{
+    width: 200px;
+    height: 200px;
+}
+.shop-img:hover{
+    background-color: rgb(188, 188, 199);
+}
+
+.shop-item{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: 30px;
+}
+.item-img{
+height: 100px;
+width: 100 px;
+}
+.item-qty{
+width: 70px;
+}
+body{
+    background-color: rgb(231, 220, 220);
+}
+.btn-danger{
+    background-color: rgb(44, 10, 10);
+
+}
+.btn-danger:hover{
+
+  background-color: rgb(177, 109, 31);
+}
+
+.btn-primary{
+    background-color: darkmagenta;
+}
+.btn-primary:hover{
+    background-color: rgb(6, 66, 66);
+}
